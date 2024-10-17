@@ -1,6 +1,6 @@
 import { createBrowserRouter } from "react-router-dom";
-import AdminHomepage from "../pages/AdminHomepage";
-import AdminStudentPage from "../pages/AdminStudentPage";
+import AdminHomepage from "../Pages/AdminHomepage";
+import AdminStudentPage from "../Pages/AdminStudentPage";
 import AdminIdeaPage from "../Pages/AdminIdeaPage";
 
 import StudentHomePage from "../Pages/StudentHomePage";
